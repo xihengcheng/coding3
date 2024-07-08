@@ -1,5 +1,7 @@
 Input words to produce the corresponding verse system
 
+youtube: https://youtu.be/629H9u6fVXQ?si=YKmatlYQQtMWRPcl
+
 
 In this project, I hope to build a machine learning model, and the final effect is that the user can enter a random keyword and generate a poem with this keyword. But I know that doing so requires a relatively large database model and a long training time to achieve the desired results.
 
